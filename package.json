@@ -1,0 +1,19 @@
+{
+  "name": "stw300cem-final-project-sumnimanepal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stw300cem/stw300cem-final-project-sumnimanepal.git"
+  },
+  "author": "Sumnima Nepal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stw300cem/stw300cem-final-project-sumnimanepal/issues"
+  },
+  "homepage": "https://github.com/stw300cem/stw300cem-final-project-sumnimanepal#readme",
+  "description": ""
+}
